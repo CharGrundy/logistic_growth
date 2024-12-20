@@ -92,5 +92,8 @@ ggplot(aes(x=t,y=N), data = filtered_data) +
   
   geom_point()
 
+  ![image](https://github.com/user-attachments/assets/06399a16-a032-484e-a3fc-dd52117f7eed)
+
+
 
 
